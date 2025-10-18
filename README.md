@@ -1,11 +1,16 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/LQr4ft17)
 # Introduction
-Hi! I'm [Your Name], a student in the Framework-Based Software Design and Development course. 
-I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+<p align="center">
+  <img src="https://media.tenor.com/vFGItASVAdUAAAAM/kobo-kobo-kanaeru.gif" alt="Kobo Kanaeru Waving GIF"/>
+</p>
 
-## GitHub Profile
+Hi! I'm Mohamad Wafiq Dannial, a student in the Software Maintenance and Evolution course.
+I expect to learn a lot about modern software maintenance practices and how to work with legacy systems.
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+- **Fun fact:** I love playing video games and watching anime.
+- **Course expectations:** To gain hands-on experience in maintaining and evolving software.
+
+![My Image](kobo.gif) ## GitHub Profile
+
+You can view my personalized GitHub profile (https://github.com/Kyojin0001).
 
